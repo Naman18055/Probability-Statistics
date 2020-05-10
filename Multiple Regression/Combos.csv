@@ -1,0 +1,512 @@
+Combos Taken,Mean Square Error,Absolute Error
+Ref/Doc,2.915659866497181,1.6205057395945737
+Cites/Doc(2 Years),0.12899724636754772,0.226192333754325
+"Cites/Doc(2 Years), Ref/Doc",0.12087023722756622,0.21835223793596262
+Citable Docs(3 Years),3.064566064076225,1.6860097152565796
+"Citable Docs(3 Years), Ref/Doc",2.645569698919067,1.5337737880559008
+"Citable Docs(3 Years), Cites/Doc(2 Years)",0.12489567995344963,0.22381506064979745
+"Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11802606667298624,0.2166034226606841
+Total Cites(3 Years),2.0892021243393546,1.384971851308531
+"Total Cites(3 Years), Ref/Doc",1.8085421011583542,1.252368006940223
+"Total Cites(3 Years), Cites/Doc(2 Years)",0.12449549479947077,0.22243622219654724
+"Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11739695582010141,0.215063054399179
+"Total Cites(3 Years), Citable Docs(3 Years)",2.1950832326606426,1.3674113223479578
+"Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",2.074038069901677,1.2886080000085234
+"Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1254977801849024,0.22379001675705448
+"Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11783991192984013,0.2156220280712665
+Total Refs,3.0346510931028154,1.686877899046868
+"Total Refs, Ref/Doc",2.7062477284850313,1.5629877926867088
+"Total Refs, Cites/Doc(2 Years)",0.1267682711710134,0.22362861380806834
+"Total Refs, Cites/Doc(2 Years), Ref/Doc",0.11816261159430301,0.214033881891794
+"Total Refs, Citable Docs(3 Years)",3.034427220348787,1.679505368581057
+"Total Refs, Citable Docs(3 Years), Ref/Doc",2.6553494868495786,1.5347510423517494
+"Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.12489952483804932,0.22444940177171027
+"Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11787438730281603,0.21604299810657993
+"Total Refs, Total Cites(3 Years)",2.012427289385541,1.3541173853224553
+"Total Refs, Total Cites(3 Years), Ref/Doc",1.7121816751256647,1.2041638778853199
+"Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12461280426311352,0.222788265141633
+"Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11730606993444452,0.21481721878306184
+"Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",2.252614323979112,1.3796993204997994
+"Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",2.1015319616857604,1.2971503766179748
+"Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12525013579706326,0.2235289079171922
+"Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11794220256514412,0.2156801996676532
+Total Docs(3 Years),3.0521928711010795,1.6801068861075015
+"Total Docs(3 Years), Ref/Doc",2.6276189472942457,1.525613835224364
+"Total Docs(3 Years), Cites/Doc(2 Years)",0.12500654575643386,0.2238331557107257
+"Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11826584688718894,0.21668836118565843
+"Total Docs(3 Years), Citable Docs(3 Years)",3.0552507868182013,1.6658904621208839
+"Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",2.5827962872961665,1.4869203219954814
+"Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12781323578484685,0.22483290604176015
+"Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12110642964289929,0.21785053048653763
+"Total Docs(3 Years), Total Cites(3 Years)",2.171709881497387,1.3656080239029154
+"Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",2.0379060072970607,1.2845536274969862
+"Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.12469686773731964,0.2225818314362487
+"Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11742744473841311,0.21508847622813212
+"Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",2.0490624360702547,1.322449912882808
+"Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.8935197043150471,1.2297384784884868
+"Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12770638255337274,0.2255121827213487
+"Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12073530037093282,0.21746189256519055
+"Total Docs(3 Years), Total Refs",3.035536378977799,1.6766907583707256
+"Total Docs(3 Years), Total Refs, Ref/Doc",2.6462116155584887,1.5268997233297972
+"Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.12510171550624916,0.22468118973805043
+"Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.11816223795310334,0.2163776579313554
+"Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",3.012681832253747,1.6568785840564366
+"Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",2.5908811371626403,1.4877067402926663
+"Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.12783097832112542,0.22495429726857422
+"Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12091269676506629,0.21734093650101957
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years)",2.2038981752240927,1.373600234950551
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",2.0371539613669976,1.2843109032977962
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12439439903282429,0.22267297512623227
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11741076075839142,0.21482680370237436
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",2.1080823922905934,1.3379781346463777
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.9230536790307593,1.2399442710227329
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1276501490805142,0.22542369237123083
+"Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12086498848351121,0.2175863868735666
+Total Docs(2017),3.08124622848793,1.680131568575933
+"Total Docs(2017), Ref/Doc",2.644490614806067,1.5173399754458021
+"Total Docs(2017), Cites/Doc(2 Years)",0.1261274062375093,0.2226315409536961
+"Total Docs(2017), Cites/Doc(2 Years), Ref/Doc",0.11927191573088645,0.21550864140373027
+"Total Docs(2017), Citable Docs(3 Years)",3.055703770704774,1.6757266193659406
+"Total Docs(2017), Citable Docs(3 Years), Ref/Doc",2.6287244805912295,1.5156723939440502
+"Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1251560482915497,0.2225369878083801
+"Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1182419517655716,0.21577911536571082
+"Total Docs(2017), Total Cites(3 Years)",2.082014443424045,1.3756489752597303
+"Total Docs(2017), Total Cites(3 Years), Ref/Doc",1.8521978325026167,1.2629955217344269
+"Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years)",0.1240993178517576,0.22139609172269895
+"Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11723038419040054,0.21429393790654727
+"Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years)",2.137424001558383,1.3555069760602865
+"Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",2.0051224524459608,1.2735847201545833
+"Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1253374359434791,0.22277492680891267
+"Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11784672287793359,0.21488724340018864
+"Total Docs(2017), Total Refs",3.1155390646389,1.6842298963082054
+"Total Docs(2017), Total Refs, Ref/Doc",2.775611455481245,1.5037628595888635
+"Total Docs(2017), Total Refs, Cites/Doc(2 Years)",0.12752568416079715,0.22478787854669963
+"Total Docs(2017), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.11927730825481679,0.21551703009038892
+"Total Docs(2017), Total Refs, Citable Docs(3 Years)",3.0978683570090295,1.6807598111344069
+"Total Docs(2017), Total Refs, Citable Docs(3 Years), Ref/Doc",2.746592725919904,1.499782142369751
+"Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.12624502623728176,0.22566166232791846
+"Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1185173037647153,0.21643946355741342
+"Total Docs(2017), Total Refs, Total Cites(3 Years)",2.043154598661652,1.3642832820068451
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Ref/Doc",1.712163181947386,1.2041548422879014
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12370831668516319,0.22010994620979152
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11729169750915203,0.21417213015510067
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",2.1934462203215133,1.3676993881493782
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.8982440110014498,1.2404777772559628
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12416956114875283,0.2202687514986873
+"Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11783607408270431,0.21475212570897215
+"Total Docs(2017), Total Docs(3 Years)",3.0442544247607355,1.6727302212487232
+"Total Docs(2017), Total Docs(3 Years), Ref/Doc",2.6143115013653824,1.5128988957188332
+"Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years)",0.12510310115295872,0.22275559857282778
+"Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11834853055702091,0.2160470659269561
+"Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years)",3.058399884963035,1.6568363614132484
+"Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",2.585991380502932,1.4716006044275503
+"Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1282833929813321,0.22566760209849332
+"Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12145728540164596,0.21828400293453928
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years)",2.1332572529935696,1.3584262710604011
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",1.9900619771043604,1.2744091486227425
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.12452230619129744,0.22171782184804484
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11737007963355028,0.2141899339597079
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",2.0082943739999664,1.3131807123175843
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.845756520153979,1.2161197799411751
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12777109547185142,0.22478534370574804
+"Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12088415993841546,0.21682457467454067
+"Total Docs(2017), Total Docs(3 Years), Total Refs",3.0904358219224393,1.6782430930123564
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Ref/Doc",2.733307235798799,1.496175832798769
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.12626332589988873,0.2259776227183517
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.1186730923657144,0.21680238787428238
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",3.0733248608790587,1.65853542524038
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",2.722650507111043,1.4581041646866058
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.12945453974392665,0.22764156624049836
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12168612593157849,0.21871211719562525
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years)",2.15876778168972,1.3642431815580107
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",1.8582226426442263,1.233176754859739
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12375176520740626,0.21988261960792144
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11738815698486811,0.21404662559250912
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",2.0932406267318324,1.3345866312508283
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.7785195191468153,1.1922249807176917
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1269802471216844,0.22389521406746293
+"Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1208836150261863,0.2168653464650174
+H-Index,1.3967724669933252,1.0870196347294288
+"H-Index, Ref/Doc",1.274247127390905,0.9930376757782309
+"H-Index, Cites/Doc(2 Years)",0.12988644704105712,0.22751026516173858
+"H-Index, Cites/Doc(2 Years), Ref/Doc",0.12112738984447008,0.2165696649410431
+"H-Index, Citable Docs(3 Years)",1.3691096887044638,1.0666066550173818
+"H-Index, Citable Docs(3 Years), Ref/Doc",1.2662463265476276,0.9817202470900301
+"H-Index, Citable Docs(3 Years), Cites/Doc(2 Years)",0.1255483625510052,0.2240428319819212
+"H-Index, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11823651319805781,0.21613375978711968
+"H-Index, Total Cites(3 Years)",1.4280811453581863,1.121044488447948
+"H-Index, Total Cites(3 Years), Ref/Doc",1.2799711821463187,1.0201300363114738
+"H-Index, Total Cites(3 Years), Cites/Doc(2 Years)",0.12468609722407961,0.22248049400380024
+"H-Index, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11750793609273787,0.21494646024881067
+"H-Index, Total Cites(3 Years), Citable Docs(3 Years)",1.8046702885832697,1.2127695222699097
+"H-Index, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.7486213125550256,1.1539999567082089
+"H-Index, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.125643222943242,0.22377093527438854
+"H-Index, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11792917681412661,0.2154919640603558
+"H-Index, Total Refs",1.3900900914718712,1.0860276136711415
+"H-Index, Total Refs, Ref/Doc",1.2712083078405705,0.9931689371130676
+"H-Index, Total Refs, Cites/Doc(2 Years)",0.1279757334715641,0.22559229512857368
+"H-Index, Total Refs, Cites/Doc(2 Years), Ref/Doc",0.1187416546904997,0.21394384910770362
+"H-Index, Total Refs, Citable Docs(3 Years)",1.2719639380840637,1.0133640728007058
+"H-Index, Total Refs, Citable Docs(3 Years), Ref/Doc",1.2188271954625316,0.9524836686708991
+"H-Index, Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.12545124639010982,0.22421563396079994
+"H-Index, Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11811932512740661,0.21491083885603066
+"H-Index, Total Refs, Total Cites(3 Years)",1.49386391169647,1.1501122382567177
+"H-Index, Total Refs, Total Cites(3 Years), Ref/Doc",1.3477868385452563,1.0461600468116061
+"H-Index, Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12465762867725667,0.22279016278734812
+"H-Index, Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11742814571048511,0.2145626744538445
+"H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",1.8535973358336753,1.2108788978170857
+"H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.7908601939556155,1.1609365916770615
+"H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12535208973278833,0.22354265857002356
+"H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1181562795111854,0.21557399546819866
+"H-Index, Total Docs(3 Years)",1.3717340003165635,1.0696391425781766
+"H-Index, Total Docs(3 Years), Ref/Doc",1.2667851217576422,0.9836743092113972
+"H-Index, Total Docs(3 Years), Cites/Doc(2 Years)",0.1255075220731092,0.22394627580545
+"H-Index, Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11838766985868313,0.21624836993904312
+"H-Index, Total Docs(3 Years), Citable Docs(3 Years)",1.3929808885265123,1.068764343603034
+"H-Index, Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",1.2783955319825986,0.968256016260887
+"H-Index, Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1281909191814371,0.22453974213221511
+"H-Index, Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12118768993147218,0.21695040731055035
+"H-Index, Total Docs(3 Years), Total Cites(3 Years)",1.753351276785175,1.2006535240665839
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",1.686208030939725,1.1390757961826035
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.1248710920265295,0.22261332779639323
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11753130376674228,0.21496727903644836
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",1.7251375526567352,1.1930039778800063
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.64644136969197,1.1217045738844664
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1276661940064758,0.22551053358953618
+"H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12073305824147278,0.21746658820176756
+"H-Index, Total Docs(3 Years), Total Refs",1.278265062507207,1.0185375571604633
+"H-Index, Total Docs(3 Years), Total Refs, Ref/Doc",1.2232270673433,0.9591910033839517
+"H-Index, Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.12541042500000088,0.22447444285229162
+"H-Index, Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.11822250707963361,0.21538757502837005
+"H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",1.2797196587547093,1.008989190736052
+"H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",1.221893603636465,0.9370685780496035
+"H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.12816878693340306,0.22454714129997694
+"H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12098878149026743,0.21604154044783713
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years)",1.7838505434989054,1.196413481095549
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",1.7109268910775686,1.1436096773020998
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12442689781834786,0.22267682640771752
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11757217581920014,0.2145839230462722
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",1.7679739383302722,1.191599634831261
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.6835556838366463,1.1286639758033636
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12757358324059986,0.22539096252618318
+"H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12095517167814629,0.21747720405385013
+"H-Index, Total Docs(2017)",1.3996954258768701,1.0902330143250047
+"H-Index, Total Docs(2017), Ref/Doc",1.2725054892840835,0.9955780142577263
+"H-Index, Total Docs(2017), Cites/Doc(2 Years)",0.1266328204625273,0.22310020209594844
+"H-Index, Total Docs(2017), Cites/Doc(2 Years), Ref/Doc",0.11931271350927587,0.2145166209989989
+"H-Index, Total Docs(2017), Citable Docs(3 Years)",1.3240490251334633,1.0439342762131592
+"H-Index, Total Docs(2017), Citable Docs(3 Years), Ref/Doc",1.2299409269957664,0.9543437495467714
+"H-Index, Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12605154258424006,0.22266305812443227
+"H-Index, Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11858559769874341,0.2146655948298014
+"H-Index, Total Docs(2017), Total Cites(3 Years)",1.526870359158267,1.160794347511244
+"H-Index, Total Docs(2017), Total Cites(3 Years), Ref/Doc",1.3844940302827073,1.067028169835128
+"H-Index, Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years)",0.12436981899377299,0.221519452514427
+"H-Index, Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11737513236793702,0.21403253878574924
+"H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years)",1.7035571425086193,1.1829418444699389
+"H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.6425516105469418,1.1171051294083505
+"H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12568689788342569,0.22266591419710574
+"H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11803329649643646,0.21469155362865358
+"H-Index, Total Docs(2017), Total Refs",1.3789737204593269,1.0789061920216538
+"H-Index, Total Docs(2017), Total Refs, Ref/Doc",1.3016944079060861,1.0012438640177506
+"H-Index, Total Docs(2017), Total Refs, Cites/Doc(2 Years)",0.12732549565575674,0.22430367955799538
+"H-Index, Total Docs(2017), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.11909011002065713,0.21401186120044224
+"H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years)",1.2723462749274725,1.0215565178269748
+"H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years), Ref/Doc",1.2337050387545145,0.9548592820379753
+"H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.1263970763945156,0.22489578790451176
+"H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1185769957816317,0.21463509186310123
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years)",1.5248875262005233,1.1612122715515647
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Ref/Doc",1.3529543848428855,1.049194263720704
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12368418588365465,0.2200889240608849
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11740217574381866,0.21397515283935747
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",1.8051211361265889,1.2007887927499454
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.628548266401724,1.1131563492738956
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1242265578547777,0.22026874295996504
+"H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11803098813774188,0.21467948245311272
+"H-Index, Total Docs(2017), Total Docs(3 Years)",1.3248004770224397,1.0479531465274388
+"H-Index, Total Docs(2017), Total Docs(3 Years), Ref/Doc",1.227467727562273,0.9578654564058926
+"H-Index, Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years)",0.12575474527914438,0.22255934927528745
+"H-Index, Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11853881190937011,0.21498422121773708
+"H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years)",1.3623632511932773,1.0415497623609984
+"H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",1.2637681992693672,0.9384568325539755
+"H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1288755376284836,0.22547935388477935
+"H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1216758912279629,0.21755128527665493
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years)",1.6705260001231557,1.175431673499328
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",1.5990901161673075,1.1102747869001317
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.12484778407365844,0.2218364580601934
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11753805557199132,0.21391423800157722
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",1.6471325129788696,1.1668743884286052
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.5681011150266078,1.0884663518628663
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.12788146656113697,0.2247920632512731
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12095176070231128,0.21666191971997922
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs",1.277970933276841,1.0255974332098459
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Ref/Doc",1.2361135385145847,0.9590020851393802
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.12628440573855926,0.2252978909379615
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.11859468384420117,0.2151657913052604
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",1.2867145088821312,1.0148292246918922
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",1.2640735256928501,0.9384893608224091
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.1294710004997695,0.22681361843366785
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12158553942762074,0.21734109858029305
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years)",1.7467378846408916,1.1884757588796886
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",1.5685099606712707,1.1010159924280871
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.12375541734595724,0.21988354914790667
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.11753460636455439,0.21385128950352317
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",1.7571693849854761,1.1889700874031877
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",1.56480349815341,1.087319101050907
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1268879749255565,0.2238876097746268
+"H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.12095899138338385,0.2167448403937773
+SJR,0.5113698227284835,0.6412201970549841
+"SJR, Ref/Doc",0.5115529813921018,0.6413065660816353
+"SJR, Cites/Doc(2 Years)",0.10993896623829619,0.21093241669440935
+"SJR, Cites/Doc(2 Years), Ref/Doc",0.09862416002173685,0.2013068494628611
+"SJR, Citable Docs(3 Years)",0.4827429755065071,0.6180032370619843
+"SJR, Citable Docs(3 Years), Ref/Doc",0.4814505813520567,0.617276636817608
+"SJR, Citable Docs(3 Years), Cites/Doc(2 Years)",0.10684807488088624,0.21177397210916765
+"SJR, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09707576000258397,0.20061734283314442
+"SJR, Total Cites(3 Years)",0.4056610334033307,0.5672894877203222
+"SJR, Total Cites(3 Years), Ref/Doc",0.4024468262409377,0.5649034883295276
+"SJR, Total Cites(3 Years), Cites/Doc(2 Years)",0.10754978029897463,0.21002649274656862
+"SJR, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09708624374954092,0.2000997493284174
+"SJR, Total Cites(3 Years), Citable Docs(3 Years)",0.589298889881593,0.6579439236639403
+"SJR, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5904160028520835,0.656951725610585
+"SJR, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1072518338606131,0.21024571256587712
+"SJR, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09680860278012941,0.20029775434888297
+"SJR, Total Refs",0.4669323806339989,0.6127693374745904
+"SJR, Total Refs, Ref/Doc",0.47029363268374164,0.6146913152038602
+"SJR, Total Refs, Cites/Doc(2 Years)",0.10835255758589617,0.21051134674354385
+"SJR, Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09700583583821829,0.19960777062658921
+"SJR, Total Refs, Citable Docs(3 Years)",0.46865984295799595,0.6115506123014836
+"SJR, Total Refs, Citable Docs(3 Years), Ref/Doc",0.47056477056827223,0.6128345642819887
+"SJR, Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.1070144298986922,0.21154983453446866
+"SJR, Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09700893065818882,0.1996050589088274
+"SJR, Total Refs, Total Cites(3 Years)",0.4134831387108567,0.5719490066034552
+"SJR, Total Refs, Total Cites(3 Years), Ref/Doc",0.4078555268868083,0.5676574804983833
+"SJR, Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10748217621125054,0.2101214122409499
+"SJR, Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09685248806116381,0.19957984063083054
+"SJR, Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.6224849311284201,0.6708777648204157
+"SJR, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.622419385062409,0.6707403722192529
+"SJR, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10776037783917462,0.21000773064074466
+"SJR, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09717373792322455,0.19960802187336646
+"SJR, Total Docs(3 Years)",0.4815624660273524,0.6167912939096934
+"SJR, Total Docs(3 Years), Ref/Doc",0.4797260285903732,0.6157645606448146
+"SJR, Total Docs(3 Years), Cites/Doc(2 Years)",0.10682688221213302,0.21182902895746067
+"SJR, Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09721602034927737,0.20058140370503938
+"SJR, Total Docs(3 Years), Citable Docs(3 Years)",0.5013145945350354,0.61664848568191
+"SJR, Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",0.49166392980676626,0.6105453911651266
+"SJR, Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11078957321183994,0.21007800279750824
+"SJR, Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.1013537498329531,0.2010950877778595
+"SJR, Total Docs(3 Years), Total Cites(3 Years)",0.5510482391689246,0.641349704449447
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",0.5509802068090986,0.6404687472429406
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.1066909953755297,0.2110732377417954
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09710958342540868,0.20050260881154708
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",0.5399183165729532,0.6320659610183953
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.54154342337738,0.6287091246880344
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11034693984692619,0.2104087720922951
+"SJR, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10056625760811287,0.1990759209067006
+"SJR, Total Docs(3 Years), Total Refs",0.47102811173318665,0.6107736573897932
+"SJR, Total Docs(3 Years), Total Refs, Ref/Doc",0.4716867834911019,0.6111869815821167
+"SJR, Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.10685392199554458,0.2117758469212185
+"SJR, Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09692775615510203,0.19973299694672297
+"SJR, Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",0.48230982210240714,0.6067843882386093
+"SJR, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",0.4779066096491587,0.6040648267328045
+"SJR, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.11095472904976862,0.2101336389955862
+"SJR, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10101236282999426,0.19972946519939397
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years)",0.5691541831124407,0.6496115789530995
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",0.5690634535996104,0.6495082033167014
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10675951730802759,0.2109921295775605
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09685486397640658,0.19963734350133047
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5738497671897288,0.6467215319551186
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.571889091279524,0.6435561636455454
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11117418240131798,0.21167445733474222
+"SJR, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10098203360530886,0.20072643915117855
+"SJR, Total Docs(2017)",0.4829765833429233,0.6097234869719876
+"SJR, Total Docs(2017), Ref/Doc",0.4795899518034966,0.6077324065799412
+"SJR, Total Docs(2017), Cites/Doc(2 Years)",0.10786287307132472,0.21065984863880044
+"SJR, Total Docs(2017), Cites/Doc(2 Years), Ref/Doc",0.09811037819606269,0.19928548505095856
+"SJR, Total Docs(2017), Citable Docs(3 Years)",0.49122303381319504,0.6117095590623018
+"SJR, Total Docs(2017), Citable Docs(3 Years), Ref/Doc",0.48768811812754415,0.6095428813073727
+"SJR, Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10878818382305844,0.21105279112799122
+"SJR, Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09857299387151275,0.19958075585723664
+"SJR, Total Docs(2017), Total Cites(3 Years)",0.416944037613672,0.5752699849639724
+"SJR, Total Docs(2017), Total Cites(3 Years), Ref/Doc",0.41456840154229685,0.573620352633803
+"SJR, Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years)",0.10756328100896018,0.2102287790497413
+"SJR, Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.098059470099692,0.19922237923691624
+"SJR, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years)",0.5556338486009592,0.6385339630318663
+"SJR, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5570658362588841,0.6371567692182658
+"SJR, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10858026695495783,0.21066559470970364
+"SJR, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09804819841225415,0.19857452464502554
+"SJR, Total Docs(2017), Total Refs",0.511177731047181,0.6147003335305512
+"SJR, Total Docs(2017), Total Refs, Ref/Doc",0.5112708390778997,0.6101049564495387
+"SJR, Total Docs(2017), Total Refs, Cites/Doc(2 Years)",0.11015864613144245,0.2130762979872063
+"SJR, Total Docs(2017), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09769209033905044,0.19886586743367615
+"SJR, Total Docs(2017), Total Refs, Citable Docs(3 Years)",0.5152588386936574,0.615691350897566
+"SJR, Total Docs(2017), Total Refs, Citable Docs(3 Years), Ref/Doc",0.5157055811988864,0.6111990030475242
+"SJR, Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.11064227061778222,0.21310633103911517
+"SJR, Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09807717910044807,0.19915169743742905
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years)",0.41229143526358963,0.5700223744968743
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Ref/Doc",0.403869130189259,0.5637942050001629
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10929993476308922,0.21236665446875858
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09769016029975414,0.1988631050616613
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5524403149839001,0.6367847454890917
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5435241661611191,0.6291267711943223
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10902809668962292,0.21124470726866199
+"SJR, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09769954078853801,0.19814933287169922
+"SJR, Total Docs(2017), Total Docs(3 Years)",0.48570944950623274,0.6106462205584499
+"SJR, Total Docs(2017), Total Docs(3 Years), Ref/Doc",0.4823327028270281,0.6086116749949486
+"SJR, Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years)",0.1080724263400165,0.21064854990944315
+"SJR, Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09815106450884542,0.19928634392054362
+"SJR, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years)",0.5207985430658035,0.6042969901935349
+"SJR, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",0.511170679370745,0.597183490283384
+"SJR, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11396664245609134,0.2150837055112955
+"SJR, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10379569252501043,0.20301746795961007
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years)",0.5238707959172321,0.626412658179769
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",0.5236574493662051,0.6249752774186517
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.10768126865300622,0.20926760559048982
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09800008887408775,0.19897261605194522
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",0.5208789620714507,0.6156487989087595
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5234322107954819,0.6116943082961943
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11272490178974345,0.2161079559823254
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10260126875047193,0.2026564656450568
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs",0.511960395848142,0.6150157699453433
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Ref/Doc",0.5119649344206668,0.6103856589435745
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.10999432787887792,0.21309711315350666
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09775180696535579,0.1988481186588251
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",0.534083366608611,0.606738342263975
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",0.5395446969353304,0.5992540756260021
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.11603702042980311,0.21544027937925753
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10278476096563412,0.20204217210780154
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years)",0.5120460017852908,0.6196096290328058
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",0.5035582585520169,0.612254037664664
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10914066754636083,0.21189034364933187
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09759861998091902,0.1984971387534689
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5332435879896705,0.6221334958584697
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5203026228054031,0.6103642115490145
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11329498581263918,0.2157257210245916
+"SJR, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10191705939774681,0.20228061988351906
+"SJR, H-Index",0.34330581347943545,0.5105697967286692
+"SJR, H-Index, Ref/Doc",0.34253921188563474,0.5095347731226979
+"SJR, H-Index, Cites/Doc(2 Years)",0.11023917226453102,0.21156100999110614
+"SJR, H-Index, Cites/Doc(2 Years), Ref/Doc",0.09850685370516488,0.20136734039021065
+"SJR, H-Index, Citable Docs(3 Years)",0.34354282749526716,0.510854177637228
+"SJR, H-Index, Citable Docs(3 Years), Ref/Doc",0.34273159597996056,0.5098041957607986
+"SJR, H-Index, Citable Docs(3 Years), Cites/Doc(2 Years)",0.10460690987351871,0.20784325577873317
+"SJR, H-Index, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09594325452895046,0.2010203797844434
+"SJR, H-Index, Total Cites(3 Years)",0.3619743338377245,0.5332156200184677
+"SJR, H-Index, Total Cites(3 Years), Ref/Doc",0.3594804205004547,0.5308184629295977
+"SJR, H-Index, Total Cites(3 Years), Cites/Doc(2 Years)",0.1040991585841101,0.2055615941363795
+"SJR, H-Index, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09490419091988975,0.20044229692828394
+"SJR, H-Index, Total Cites(3 Years), Citable Docs(3 Years)",0.5642898199122213,0.6387323398513755
+"SJR, H-Index, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5659126485246673,0.6377499199980106
+"SJR, H-Index, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.103964756165666,0.20553362705316305
+"SJR, H-Index, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09471566459537839,0.19997117307814324
+"SJR, H-Index, Total Refs",0.33617550718029704,0.5066635401254339
+"SJR, H-Index, Total Refs, Ref/Doc",0.3363377249391954,0.506878337506062
+"SJR, H-Index, Total Refs, Cites/Doc(2 Years)",0.10767309307261033,0.20923326652139976
+"SJR, H-Index, Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09609939635712685,0.19932220878673376
+"SJR, H-Index, Total Refs, Citable Docs(3 Years)",0.32568810000875137,0.4866711607808595
+"SJR, H-Index, Total Refs, Citable Docs(3 Years), Ref/Doc",0.32653657188663837,0.48851785866447783
+"SJR, H-Index, Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.10461942870687278,0.20783642736761093
+"SJR, H-Index, Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09571492535893712,0.19952024868594903
+"SJR, H-Index, Total Refs, Total Cites(3 Years)",0.3825573967702015,0.5492882147051017
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Ref/Doc",0.3796010823572615,0.5464109876255366
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10410851317286614,0.20555556168356834
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09494637648245702,0.19931786797696557
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5919649977879724,0.6431530783178935
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5918890425984875,0.6432585944933117
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10398260433163849,0.20553498242490648
+"SJR, H-Index, Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09515212619676454,0.1995546179824549
+"SJR, H-Index, Total Docs(3 Years)",0.34456011094894934,0.5114478329464153
+"SJR, H-Index, Total Docs(3 Years), Ref/Doc",0.3436060219446279,0.5102724559307559
+"SJR, H-Index, Total Docs(3 Years), Cites/Doc(2 Years)",0.10454329495557214,0.20750913471354634
+"SJR, H-Index, Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09622084947024755,0.20117291757306197
+"SJR, H-Index, Total Docs(3 Years), Citable Docs(3 Years)",0.36587806975341075,0.5118737226898277
+"SJR, H-Index, Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",0.36221987876534373,0.5065613195620859
+"SJR, H-Index, Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10898487264598776,0.2074418466337333
+"SJR, H-Index, Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10062175635296,0.20116103476012953
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years)",0.5220818998190693,0.6190857518477176
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",0.5224214767074636,0.6181937702804655
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.10338906803026965,0.20538829576048587
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09501749566808514,0.20007978298126192
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",0.5305728429524152,0.6247738922621048
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5333270457168898,0.6218966684681924
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.1067573770353392,0.2057627055352149
+"SJR, H-Index, Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09833558139558227,0.19848581603042714
+"SJR, H-Index, Total Docs(3 Years), Total Refs",0.3260388142283125,0.49142436044507787
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Ref/Doc",0.3267529665080186,0.492927023815535
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.1044899976699097,0.2075615824444588
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.0957725981866215,0.19981654209478436
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",0.3393907872424371,0.4848605799906047
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",0.33917817572126363,0.48359794238311815
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.1090178103803118,0.20739820283380336
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10001335930823337,0.199983879395075
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years)",0.5368371756089585,0.6206754944992842
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",0.5369143387021258,0.620937253922886
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10311936916372534,0.20527794099005367
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09495856746398107,0.1993291311110154
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5552750685279344,0.6292829577494602
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5554652118854461,0.6276764573870015
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10705610714702293,0.20634567438830412
+"SJR, H-Index, Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.0987180865091106,0.19884332553784012
+"SJR, H-Index, Total Docs(2017)",0.3473358092776205,0.5149105909028866
+"SJR, H-Index, Total Docs(2017), Ref/Doc",0.34541642317370724,0.5126216589989396
+"SJR, H-Index, Total Docs(2017), Cites/Doc(2 Years)",0.10663982580898702,0.20799747145308728
+"SJR, H-Index, Total Docs(2017), Cites/Doc(2 Years), Ref/Doc",0.09757924739940592,0.19980174981995405
+"SJR, H-Index, Total Docs(2017), Citable Docs(3 Years)",0.347167520298694,0.49776421532274184
+"SJR, H-Index, Total Docs(2017), Citable Docs(3 Years), Ref/Doc",0.3461156352151752,0.49520863316046965
+"SJR, H-Index, Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years)",0.106951572353669,0.20817274425426982
+"SJR, H-Index, Total Docs(2017), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.0973413996167913,0.1999213709012811
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years)",0.37725385488506624,0.5458660369047197
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Ref/Doc",0.3751448288266499,0.5440633428771168
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years)",0.10437519761431063,0.2048443303164314
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09572629989945967,0.19837554461358595
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years)",0.5192454427129162,0.6085709327924741
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5217418195628276,0.6070341447119298
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10545972081817309,0.2047424283224885
+"SJR, H-Index, Total Docs(2017), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.0957426699479052,0.19764783759776
+"SJR, H-Index, Total Docs(2017), Total Refs",0.3577337615941499,0.519674422203192
+"SJR, H-Index, Total Docs(2017), Total Refs, Ref/Doc",0.35914228133260917,0.5170322332840338
+"SJR, H-Index, Total Docs(2017), Total Refs, Cites/Doc(2 Years)",0.11005792878660421,0.21068702257169128
+"SJR, H-Index, Total Docs(2017), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09735644089832429,0.19960993934805785
+"SJR, H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years)",0.3445255232151549,0.4965220196959441
+"SJR, H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years), Ref/Doc",0.34660939165496524,0.4953828141704908
+"SJR, H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.10950410810717713,0.2106537313219182
+"SJR, H-Index, Total Docs(2017), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09722935460910742,0.19977731699517154
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years)",0.3819376917449262,0.5480078714402686
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Ref/Doc",0.37752322809273925,0.5436287560655259
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10576457462588162,0.2064429671657251
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09577266707640944,0.19842917998175733
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5248184304317239,0.6111120028799212
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.519224690912675,0.6057087450924098
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10548160293692435,0.204998150668867
+"SJR, H-Index, Total Docs(2017), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09570623259572365,0.1975940437991603
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years)",0.34258425311450186,0.49980888500547144
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Ref/Doc",0.3413428829510778,0.49741780093287136
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years)",0.10603873553434863,0.2076918659287001
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09703180237818564,0.20021805255598774
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years)",0.37994993954049355,0.49819700306491654
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Ref/Doc",0.3786210210752505,0.4926851510909917
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.11222419625789176,0.21075413539533222
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10274349772411605,0.20202478602937302
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years)",0.48428515653944637,0.5937548903750364
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Ref/Doc",0.4848381116944326,0.5921770711386767
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years)",0.10451948445445422,0.20420130491689858
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09573092931055598,0.1983957952766925
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years)",0.5013343318635285,0.5997265823610908
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5057050867758546,0.5962918729620732
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10898054362571093,0.21043713672187314
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09993619234902644,0.2001068806216272
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs",0.3430713761245028,0.5000379249883217
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Ref/Doc",0.3449795691003911,0.4986155176549622
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years)",0.10911341590140045,0.21059336410843954
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Cites/Doc(2 Years), Ref/Doc",0.09709657313291678,0.2002984559628594
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years)",0.36767078079907056,0.49492810593964703
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Ref/Doc",0.37597162977164206,0.4922190382963356
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years)",0.11540664887239037,0.21218091095174407
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.10233677388629778,0.20172260132865763
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years)",0.4818829876637444,0.592603968996755
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Ref/Doc",0.476680095227879,0.5876014155790326
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years)",0.10581468341924903,0.2065654991981662
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09578602628149262,0.19847481718929455
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years)",0.5157656734999023,0.6058357439449741
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Ref/Doc",0.5070630183351668,0.5966998338104629
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years)",0.10952325627937766,0.20875418878526672
+"SJR, H-Index, Total Docs(2017), Total Docs(3 Years), Total Refs, Total Cites(3 Years), Citable Docs(3 Years), Cites/Doc(2 Years), Ref/Doc",0.09977335547643523,0.2000986360676403
